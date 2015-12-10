@@ -1,0 +1,24 @@
+{
+  "name": "@demo/hello-string",
+  "version": "0.1.0",
+  "description": "Simple module to build a Hello User string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/npmo/demo-hello-string.git"
+  },
+  "keywords": [
+    "demo",
+    "hello",
+    "string"
+  ],
+  "author": "npmo-andrew <andrew+ghdemo@npmjs.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npmo/demo-hello-string/issues"
+  },
+  "homepage": "https://github.com/npmo/demo-hello-string#readme"
+}
